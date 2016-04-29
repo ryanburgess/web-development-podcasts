@@ -22,7 +22,7 @@ content += '\n#Podcast List\n';
 for (const podcasts of obj) {
   content += (
     `\n<img src="${podcasts.thumb}" width="100" alt="${podcasts.title}">
-    [${podcasts.title}](${podcasts.url})
+    [${podcasts.title}](${podcasts.url})\n
 ${podcasts.description}\n\n`
   );
 }
