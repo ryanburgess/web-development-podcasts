@@ -15,10 +15,10 @@ const contribute = ('## Contributing \n' +
 
 content += contribute + '\n';
 
-// create heading for conference list
+// create heading for podcasts list
 content += '\n#Podcast List\n';
 
-// create list of conferences
+// create list of podcasts
 for (const podcasts of obj) {
   content += (
     `\n![${podcasts.title}](${podcasts.thumb} =100x)
@@ -27,8 +27,8 @@ ${podcasts.description}\n\n`
   );
 }
 
-// create README with the list of conferences
+// create README with the list of podcasts
 fs.writeFile('./README.md', content, function (err) {
   if (err) throw err;
-  console.log('Updated conference list');
+  console.log('Updated podcasts list');
 });
