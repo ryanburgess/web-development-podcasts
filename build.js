@@ -21,7 +21,7 @@ content += '\n#Podcast List\n';
 // create list of podcasts
 for (const podcasts of obj) {
   content += (
-    `\n![${podcasts.title}](${podcasts.thumb} =100x)
+    `\n<img src="${podcasts.thumb}" width="100" alt="${podcasts.title}">
     [${podcasts.title}](${podcasts.url})
 ${podcasts.description}\n\n`
   );
