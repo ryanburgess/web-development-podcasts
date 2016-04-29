@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Front End Happy Hour",
+    "description": "Is a podcast where a panel of front end engineers from comapnies like Netflix, Evernote and LinkedIn talk about front end development over drinks.",
+    "url": "http://frontendhappyhour.com/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/front-end-happy-hour-logo.jpg"
+  },
+  {
+    "title": "Shop Talk Show",
+    "description": "Is a podcast focusing on front-end development, starring Dave Rupert and Chris Coyier. The format of the show can vary between episodes, sometimes Dave and Chris will be joined by guests, as well as answering questions from listeners of the show.",
+    "url": "http://shoptalkshow.com/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/shop-talk-show.jpg"
+  },
+  {
+    "title": "Node Up",
+    "description": "Is a podcast put together by Jordan Muir, and hosted by Tim Oxley and Rod Vagg. The show focuses on topics around the Node.js community and it’s technologies.",
+    "url": "http://nodeup.com/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/nodeup-logo.jpg"
+  },
+  {
+    "title": "JavaScript Jabber",
+    "description": "Is a weekly podcast that focuses topics on JavaScript, including Node.js, front-end technologies, careers and more. The show typically has a similar panel of interviewers with guests who come on the show to talk about a certain topic.",
+    "url": "https://devchat.tv/js-jabber",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/javascript-jabber.jpg"
+  },
+  {
+    "title": "The Changelog",
+    "description": "Is a weekly podcast with a new episode available every Friday. The show focuses a wide variety of development and open source topics including: JavaScript, Ruby, performance, conferences and more.",
+    "url": "https://changelog.com/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/the-changelog.jpg"
+  },
+  {
+    "title": "Responsive Web Design",
+    "description": "Is a show focusing on responsive web design, hosted by Karen McGrane and Ethan Marcotte. In each episode, Karen and Ethan have guests on the show to interview them on how they make responsive redesigns happen.",
+    "url": "http://responsivewebdesign.com/podcast/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/responsive-web-design-podcast.jpg"
+  },
+  {
+    "title": "The Big Web Show",
+    "description": "Is a podcast hosted by Jeffrey Zeldman and features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more.",
+    "url": "http://5by5.tv/bigwebshow/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/the-big-web-show.jpg"
+  },
+  {
+    "title": "Boagworld",
+    "description": "Is a weekly podcast with a new episode available every Thursday. The show is hosted by Paul Boag and Marcus Lillington who are joined by a variety of guests to discuss a range of web design related topics.",
+    "url": "https://boagworld.com/show/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/boagworld-show.jpg"
+  },
+  {
+    "title": "The Web Ahead",
+    "description": "Is a weekly podcast with a new episode available every Thursday. The show is hosted by Paul Boag and Marcus Lillington who are joined by a variety of guests to discuss a range of web design related topics.",
+    "url": "http://5by5.tv/webahead",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/the-web-ahead.jpg"
+  },
+  {
+    "title": "FiveJS",
+    "description": "Is a weekly podcast with five minute episodes focusing on what’s new in the world of JavaScript. The show covers various topics including: JavaScript frameworks, tools, conferences, and more.",
+    "url": "https://fivejs.codeschool.com/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/fivejs.jpg"
+  },
+  {
+    "title": "Creative Coding",
+    "description": "The Creative Coding podcast covers insights and learning of programming. Hosted by Seb Lee-Delisle and game developer Iain Lobb, this podcast is a great source for new inspiration.",
+    "url": "http://creativecodingpodcast.com/",
+    "thumb": "http://a2.mzstatic.com/us/r30/Music/v4/36/a4/c4/36a4c474-2cfe-e25d-5d73-7e1052968069/cover170x170.jpeg"
+  },
+  {
+    "title": "This Developer’s Life",
+    "description": "This podcast provides great insights in the life of developers. If you’re thinking about getting into web development or if you’d call yourself a developer, this podcast will definitely give you some great insights.",
+    "url": "http://thisdeveloperslife.com/",
+    "thumb": "http://a4.mzstatic.com/us/r30/Music4/v4/74/59/93/745993b8-2c50-f605-6857-0a010dbe9286/cover100x100.jpeg"
+  },
+  {
+    "title": "Developer Tea",
+    "description": "A podcast for developers designed to fit inside your tea break.",
+    "url": "http://spec.fm/podcasts/developer-tea",
+    "thumb": "https://pbs.twimg.com/profile_images/557744034462965760/u-dbRwJT_400x400.jpeg"
+  },
+  {
+    "title": "Modern Web",
+    "description": "Modern Web is a podcast that covers the latest news on topics such as EmberJS, ReactJS, AngularJS, ES2015, RxJS, Functional Reactive.",
+    "url": "http://www.modern-web.org/",
+    "thumb": "https://cdn2.player.fm/images/1213301/series/xz1DiaECk43TFCuL/512.png"
+  },
+  {
+    "title": "JavaScript Air",
+    "description": "The live broadcast podcast all about JavaScript",
+    "url": "https://javascriptair.com/",
+    "thumb": "https://pbs.twimg.com/profile_images/665177206243495936/2RsNy5iV_400x400.png"
+  },
+  {
+    "title": "Style Guide Podcast",
+    "description": "A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.",
+    "url": "http://styleguides.io/podcast/",
+    "thumb": "http://a4.mzstatic.com/us/r30/Music3/v4/84/54/90/84549079-86c7-9cce-9c9b-6e192f17c103/cover100x100.jpeg"
+  },
+  {
+    "title": "Adventures in Angular",
+    "description": "A weekly show dedicated to the AngularJS framework.",
+    "url": "https://devchat.tv/adventures-in-angular",
+    "thumb": "http://a5.mzstatic.com/us/r30/Music3/v4/81/0c/91/810c91e5-83fe-d7f8-c788-994db972508d/cover100x100.jpeg"
+  },
+  {
+    "title": "Web Behind",
+    "description": "The Web Behind is a podcast about web developers and their humble beginnings.",
+    "url": "https://webbehind.com/",
+    "thumb": "https://pbs.twimg.com/profile_images/710962547378114560/vdzuNeel_400x400.jpg"
+  },
+  {
+    "title": "Code Newbie",
+    "description": "Stories from people on their coding journey. New episodes published every Monday.",
+    "url": "http://www.codenewbie.org/podcast",
+    "thumb": "https://pbs.twimg.com/profile_images/446419165444710400/KWnO3_VY_400x400.png"
+  }
+]
