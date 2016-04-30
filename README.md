@@ -124,3 +124,21 @@ The Web Behind is a podcast about web developers and their humble beginnings.
 
 Stories from people on their coding journey. New episodes published every Monday.
 
+
+<img src="https://media.simplecast.com/podcast/image/282/small_1433513863-artwork.jpg" width="100" alt="The Bike Shed">
+    [The Bike Shed](http://bikeshed.fm/)
+
+On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
+
+
+<img src="https://media.simplecast.com/podcast/image/272/small_1437489285-artwork.jpg" width="100" alt="Build Phase">
+    [Build Phase](http://buildphase.fm/)
+
+Build Phase is a weekly technical podcast discussing iOS development and design. Hosted by iOS developers Mark Adams and Gordon Fontenot; they discuss code, design, and creating great iOS apps.
+
+
+<img src="https://media.simplecast.com/podcast/image/1088/small_1452002405-artwork.jpg" width="100" alt="Tentative">
+    [Tentative](http://tentative.fm/)
+
+Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler.
+
