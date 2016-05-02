@@ -142,3 +142,15 @@ Build Phase is a weekly technical podcast discussing iOS development and design.
 
 Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler.
 
+
+<img src="https://media.simplecast.com/podcast/image/1386/1454987525-artwork.jpg" width="100" alt="Does Not Compute">
+    [Does Not Compute](http://spec.fm/podcasts/does-not-compute)
+
+Is A weekly chat about the lives and workflows of modern web developers, hosted by Sean Washington & Paul Straw.
+
+
+<img src="https://media.simplecast.com/podcast/image/1103/1428344839-artwork.jpg" width="100" alt="The Path To Performance">
+    [The Path To Performance](https://pathtoperf.com/)
+
+A podcast for everyone dedicated to making websites faster.
+
