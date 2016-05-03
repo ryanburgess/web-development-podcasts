@@ -12,6 +12,12 @@
     "thumb": "http://coderesponsible.com/wp-content/uploads/shop-talk-show.jpg"
   },
   {
+    "title": "CodePen Radio",
+    "description": "Another podcast by Chris Coyier, the main topics are about running a small web software business. The good, the bad, and the ugly.",
+    "url": "https://blog.codepen.io/radio/",
+    "thumb": "http://imglogo.podbean.com/dir-logo/219869/219869_300x300.png"
+  },
+  {
     "title": "Node Up",
     "description": "Is a podcast put together by Jordan Muir, and hosted by Tim Oxley and Rod Vagg. The show focuses on topics around the Node.js community and it’s technologies.",
     "url": "http://nodeup.com/",

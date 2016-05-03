@@ -23,6 +23,12 @@ Is a podcast where a panel of front end engineers from comapnies like Netflix, E
 Is a podcast focusing on front-end development, starring Dave Rupert and Chris Coyier. The format of the show can vary between episodes, sometimes Dave and Chris will be joined by guests, as well as answering questions from listeners of the show.
 
 
+<img src="http://imglogo.podbean.com/dir-logo/219869/219869_300x300.png" width="100" alt="CodePen Radio">
+    [CodePen Radio](https://blog.codepen.io/radio/)
+
+Another podcast by Chris Coyier, the main topics are about running a small web software business. The good, the bad, and the ugly.
+
+
 <img src="http://coderesponsible.com/wp-content/uploads/nodeup-logo.jpg" width="100" alt="Node Up">
     [Node Up](http://nodeup.com/)
 
