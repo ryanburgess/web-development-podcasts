@@ -142,3 +142,9 @@ Build Phase is a weekly technical podcast discussing iOS development and design.
 
 Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler.
 
+
+<img src="https://pbs.twimg.com/profile_images/464560525330751488/GXHH9VNS.jpeg" width="100" alt="Ruby Rogues">
+    [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+
+Is a weekly podcast that focuses on the Ruby programming language. Discussions cover Ruby technologies, programming practices, tools, and careers.
+

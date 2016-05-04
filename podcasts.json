@@ -130,5 +130,11 @@
     "description": "Tentative is a podcast about digital product design, hosted by thoughtbot designers Reda Lemeden & Kyle Fiedler.",
     "url": "http://tentative.fm/",
     "thumb": "https://media.simplecast.com/podcast/image/1088/small_1452002405-artwork.jpg"
+  },
+  {
+    "title": "Ruby Rogues",
+    "description": "Is a weekly podcast that focuses on the Ruby programming language. Discussions cover Ruby technologies, programming practices, tools, and careers.",
+    "url": "https://devchat.tv/ruby-rogues/",
+    "thumb": "https://pbs.twimg.com/profile_images/464560525330751488/GXHH9VNS.jpeg"
   }
 ]
