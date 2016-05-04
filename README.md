@@ -62,7 +62,7 @@ Is a weekly podcast with a new episode available every Thursday. The show is hos
 <img src="http://coderesponsible.com/wp-content/uploads/the-web-ahead.jpg" width="100" alt="The Web Ahead">
     [The Web Ahead](http://5by5.tv/webahead)
 
-Is a weekly podcast with a new episode available every Thursday. The show is hosted by Paul Boag and Marcus Lillington who are joined by a variety of guests to discuss a range of web design related topics.
+Is a podcast featuring conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up. Hosted by Jen Simmons.
 
 
 <img src="http://coderesponsible.com/wp-content/uploads/fivejs.jpg" width="100" alt="FiveJS">
