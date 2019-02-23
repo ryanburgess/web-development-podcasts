@@ -9,7 +9,7 @@
 6. Push to the branch (`git push origin my-new-feature`)
 7. Create new Pull Request
 
-# Podcast List
+#Podcast List
 
 <img src="http://coderesponsible.com/wp-content/uploads/front-end-happy-hour-logo.jpg" width="100" alt="Front End Happy Hour">
     [Front End Happy Hour](http://frontendhappyhour.com/)
@@ -39,6 +39,12 @@ Is a podcast put together by Jordan Muir, and hosted by Tim Oxley and Rod Vagg. 
     [JavaScript Jabber](https://devchat.tv/js-jabber)
 
 Is a weekly podcast that focuses topics on JavaScript, including Node.js, front-end technologies, careers and more. The show typically has a similar panel of interviewers with guests who come on the show to talk about a certain topic.
+
+
+<img src="http://coderesponsible.com/wp-content/uploads/front-end-happy-hour-logo.jpg" width="100" alt="Syntax">
+    [Syntax](http://frontendhappyhour.com/)
+
+A Tasty Treats Podcast for Web Developers.
 
 
 <img src="http://coderesponsible.com/wp-content/uploads/the-changelog.jpg" width="100" alt="The Changelog">

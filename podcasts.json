@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Front End Happy Hour",
     "description": "Is a podcast where a panel of front end engineers from comapnies like Netflix, Evernote and LinkedIn talk about front end development over drinks.",
     "url": "http://frontendhappyhour.com/",
@@ -30,6 +29,12 @@
     "thumb": "http://coderesponsible.com/wp-content/uploads/javascript-jabber.jpg"
   },
   {
+    "title": "Syntax",
+    "description": "A Tasty Treats Podcast for Web Developers.",
+    "url": "http://frontendhappyhour.com/",
+    "thumb": "http://coderesponsible.com/wp-content/uploads/front-end-happy-hour-logo.jpg"
+  },
+  {
     "title": "The Changelog",
     "description": "Is a weekly podcast with a new episode available every Friday. The show focuses a wide variety of development and open source topics including: JavaScript, Ruby, performance, conferences and more.",
     "url": "https://changelog.com/",
@@ -55,7 +60,7 @@
   },
   {
     "title": "The Web Ahead",
-	"description": "Is a podcast featuring conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up. Hosted by Jen Simmons.",
+    "description": "Is a podcast featuring conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up. Hosted by Jen Simmons.",
     "url": "http://5by5.tv/webahead",
     "thumb": "http://coderesponsible.com/wp-content/uploads/the-web-ahead.jpg"
   },
