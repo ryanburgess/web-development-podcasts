@@ -41,8 +41,8 @@ Is a podcast put together by Jordan Muir, and hosted by Tim Oxley and Rod Vagg. 
 Is a weekly podcast that focuses topics on JavaScript, including Node.js, front-end technologies, careers and more. The show typically has a similar panel of interviewers with guests who come on the show to talk about a certain topic.
 
 
-<img src="http://coderesponsible.com/wp-content/uploads/front-end-happy-hour-logo.jpg" width="100" alt="Syntax">
-    [Syntax](http://frontendhappyhour.com/)
+<img src="https://syntax.fm/static/logo.png" width="100" alt="Syntax">
+    [Syntax](https://syntax.fm/)
 
 A Tasty Treats Podcast for Web Developers.
 
