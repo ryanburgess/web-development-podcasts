@@ -159,5 +159,11 @@
     "description": "A podcast for everyone dedicated to making websites faster.",
     "url": "https://pathtoperf.com/",
     "thumb": "https://media.simplecast.com/podcast/image/1103/1428344839-artwork.jpg"
+  },
+  {
+    "title": "Ladybug Podcast",
+    "description": "Listen to Kelly Vaughn, Ali Spittel, && Emma Wedekind debug the tech industry.",
+    "url": "https://ladybug.dev/",
+    "thumb": "https://ladybug.dev/static/615138c59d5de227e39c7044f4f2e92c/5a67f/logo.png"
   }
 ]
