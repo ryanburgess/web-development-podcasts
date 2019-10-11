@@ -172,3 +172,9 @@ Is A weekly chat about the lives and workflows of modern web developers, hosted 
 
 A podcast for everyone dedicated to making websites faster.
 
+
+<img src="https://ladybug.dev/static/615138c59d5de227e39c7044f4f2e92c/5a67f/logo.png" width="100" alt="Ladybug Podcast">
+    [Ladybug Podcast](https://ladybug.dev/)
+
+Listen to Kelly Vaughn, Ali Spittel, && Emma Wedekind debug the tech industry.
+
