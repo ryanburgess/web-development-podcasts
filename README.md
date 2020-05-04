@@ -178,3 +178,15 @@ A podcast for everyone dedicated to making websites faster.
 
 Listen to Kelly Vaughn, Ali Spittel, && Emma Wedekind debug the tech industry.
 
+
+<img src="https://cdn.simplecast.com/images/6232da22-dbb9-483e-9208-b2a740767729/5c14c978-65b9-4737-ab69-30c4ca672938/640x640/1551799236artwork.jpg" width="100" alt="No Plans To Merge">
+    [No Plans To Merge](https://noplanstomerge.simplecast.com/)
+
+A real-life code talk podcast between two working developers. Hosted by Caleb Porzio and @dcoulbourne.
+
+
+<img src="https://pbs.twimg.com/profile_images/1066436461912719360/feZImgKl_400x400.jpg" width="100" alt="The Undefined Podcast">
+    [The Undefined Podcast](https://undefined.fm/)
+
+The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.
+
