@@ -131,7 +131,7 @@ A weekly show dedicated to the AngularJS framework.
 The Web Behind is a podcast about web developers and their humble beginnings.
 
 
-<img src="https://pbs.twimg.com/profile_images/446419165444710400/KWnO3_VY_400x400.png" width="100" alt="Code Newbie">
+<img src="https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png" width="100" alt="Code Newbie">
     [Code Newbie](http://www.codenewbie.org/podcast)
 
 Stories from people on their coding journey. New episodes published every Monday.
@@ -189,4 +189,10 @@ A real-life code talk podcast between two working developers. Hosted by Caleb Po
     [The Undefined Podcast](https://undefined.fm/)
 
 The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.
+
+
+<img src="https://fullstackradio.com/podcast-cover.jpg" width="100" alt="Full Stack Radio Podcast">
+    [Full Stack Radio Podcast](https://fullstackradio.com/)
+
+A podcast for developers interested in building great software products. Hosted by Adam Wathan.
 
