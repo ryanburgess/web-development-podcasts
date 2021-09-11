@@ -122,7 +122,7 @@
     "title": "Code Newbie",
     "description": "Stories from people on their coding journey. New episodes published every Monday.",
     "url": "http://www.codenewbie.org/podcast",
-    "thumb": "https://pbs.twimg.com/profile_images/446419165444710400/KWnO3_VY_400x400.png"
+    "thumb": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
   },
   {
     "title": "The Bike Shed",
@@ -177,5 +177,11 @@
     "description": "The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.",
     "url": "https://undefined.fm/",
     "thumb": "https://pbs.twimg.com/profile_images/1066436461912719360/feZImgKl_400x400.jpg"
+  },
+  {
+    "title": "Full Stack Radio Podcast",
+    "description": "A podcast for developers interested in building great software products. Hosted by Adam Wathan.",
+    "url": "https://fullstackradio.com/",
+    "thumb": "https://fullstackradio.com/podcast-cover.jpg"
   }
 ]
