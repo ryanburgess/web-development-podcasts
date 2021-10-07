@@ -183,5 +183,12 @@
     "description": "A podcast for developers interested in building great software products. Hosted by Adam Wathan.",
     "url": "https://fullstackradio.com/",
     "thumb": "https://fullstackradio.com/podcast-cover.jpg"
+  },
+  {
+    "title": "JS Party: JavaScript, CSS, Web Development",
+    "description": "Your weekly celebration of JavaScript and the web. Panelists include Jerod Santo, Feross Aboukhadijeh, Kevin Ball, Amelia Wattenberger, Nick Nisi, Divya Sasidharan, Mikeal Rogers, Chris Hiller, and Amal Hussein",
+    "url": "https://changelog.com/jsparty",
+    "thumb": "https://cdn.changelog.com/uploads/covers/js-party-original.png"
+
   }
 ]

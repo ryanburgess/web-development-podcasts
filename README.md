@@ -196,3 +196,9 @@ The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and 
 
 A podcast for developers interested in building great software products. Hosted by Adam Wathan.
 
+
+<img src="https://cdn.changelog.com/uploads/covers/js-party-original.png" width="100" alt="JS Party: JavaScript, CSS, Web Development">
+    [JS Party: JavaScript, CSS, Web Development](https://changelog.com/jsparty)
+
+Your weekly celebration of JavaScript and the web. Panelists include Jerod Santo, Feross Aboukhadijeh, Kevin Ball, Amelia Wattenberger, Nick Nisi, Divya Sasidharan, Mikeal Rogers, Chris Hiller, and Amal Hussein
+
